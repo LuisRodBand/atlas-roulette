@@ -11,6 +11,7 @@ from plotly.subplots import make_subplots
 import time
 from scipy import stats
 
+# O RESTO DO CÓDIGO CONTINUA IGUAL...
 st.set_page_config(page_title="ATLAS PROFESSIONAL EVOLUÍDO", layout="wide", initial_sidebar_state="expanded")
 
 # ==================== CONFIGURAÇÕES AVANÇADAS EVOLUÍDAS ====================
